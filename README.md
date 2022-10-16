@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Yudhriz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi, I am Yudha Rizky Alvingky
 
-<!---
-Yudhriz/Yudhriz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Check this
+<a href="https://s.id/Ydhriz">Click me!</a>
+
+- I'm currently studying at STT Nurul Fikri
