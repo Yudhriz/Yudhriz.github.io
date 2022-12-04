@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **HTML5, CSS, Javascript**
 
-- 👨‍💻 All of my projects are available at [kreasi.nurulfikri.ac.id/Yudh22122ti](kreasi.nurulfikri.ac.id/Yudh22122ti)
+- 👨‍💻 All of my projects are available at <a href="https://kreasi.nurulfikri.ac.id/yudh22122ti/" target="blank">kreasi.nurulfikri.ac.id</a>
 
 - 📫 How to reach me **riskyyudha678@gmail.com**
 
