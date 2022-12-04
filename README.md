@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yudhriz&label=Profile%20views&color=0e75b6&style=flat" alt="yudhriz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yudhriz" alt="yudhriz" /></a> </p>
-
 - 🌱 I’m currently learning **HTML5, CSS, Javascript**
 
 - 👨‍💻 All of my projects are available at [kreasi.nurulfikri.ac.id/Yudh22122ti](kreasi.nurulfikri.ac.id/Yudh22122ti)
