@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yudhriz&label=Profile%20views&color=0e75b6&style=flat" alt="yudhriz" /> </p>
 
-- 🌱 I’m currently learning **HTML5, CSS, Javascript**
+- 🌱 I’m currently learning **HTML5, CSS, Javascript, Python**
 
 - 👨‍💻 All of my projects are available at <a href="https://kreasi.nurulfikri.ac.id/yudh22122ti/" target="blank">kreasi.nurulfikri.ac.id</a>
 
